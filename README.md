@@ -1,2 +1,2 @@
-# Desafio-movimento-pe-as-de-xadrez
+# Desafio-movimento-pecas-de-xadrez
 Aulas Engenharia de Software
